@@ -1,0 +1,2 @@
+ed58358307116ef6621d7d177341d7315bcb0a57c66b22dfe96900b1cc6b0fdc  DeadMiles-0.5.2-Setup.exe
+53727b46f32b09cdf0e5c8f2df0f4d9bd38fca46f6d6cc073a8955538a15a6c5  DeadMiles-Android-0.5.2.apk

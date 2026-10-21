@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bodykupr9456-creator.github.io/dead-miles/sitemap.xml
